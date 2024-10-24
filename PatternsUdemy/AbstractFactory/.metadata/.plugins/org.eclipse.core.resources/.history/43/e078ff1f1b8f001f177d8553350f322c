@@ -1,0 +1,6 @@
+package io.github.lazarodaniel83.learningpatternsprojectswithudemygurufactory.abastractfactory.aircrafts;
+
+public class Helicopter impĺements IAircraft{
+
+	
+}

@@ -1,0 +1,12 @@
+INDEX VERSION 1.134+/home/daniel/Documentos/Udemy2024/designPaterns2024/PatternsUdemy/AbstractFactory/.metadata/.plugins/org.eclipse.jdt.core
+150825687.index
+1584828673.index
+1565097061.index
+936855726.index
+1001576563.index
+1865797976.index
+2054852854.index
+3315797153.index
+621805075.index
+1101341484.index
+772620883.index
